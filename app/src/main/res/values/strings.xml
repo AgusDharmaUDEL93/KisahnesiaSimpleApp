@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">KisahnesiaSimpleApp</string>
+
+    <string name="title">Judul Cerita</string>
+    <string name="sinopsis">Sinopsis Cerita</string>
+    <string name="region">Provinsi</string>
+    <string name="genre">Genre</string>
+    <string name="about">About</string>
+    <string name="name">Putu Agus Dharma Kusuma</string>
+    <string name="email">agusdharma48@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_title">
+        <item>Alue Naga</item>
+        <item>Ande-Ande Lumut</item>
+        <item>Asal Muasal Warna Burung Gagak Hitam</item>
+        <item>Asal Usul Danau Maninjau</item>
+        <item>Bawang Merah Bawang Putih</item>
+        <item>Kancil Buaya</item>
+        <item>Legenda Batu Menangis</item>
+        <item>Legenda Prambanan</item>
+        <item>Legenda Selat Bali</item>
+        <item>Legenda Toba</item>
+        <item>Lutung Kasarung dan Purbasari</item>
+        <item>Malin Kundang</item>
+        <item>Si Gajah Semut</item>
+        <item>Telaga Bidadari</item>
+        <item>Timun Mas</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Mitos</item>
+        <item>Cerita Rakyat</item>
+        <item>Fabel</item>
+        <item>Cerita Rakyat</item>
+        <item>Cerita Rakyat</item>
+        <item>Fabel</item>
+        <item>Legenda</item>
+        <item>Legenda</item>
+        <item>Legenda</item>
+        <item>Legenda</item>
+        <item>Cerita Rakyat</item>
+        <item>Mitos</item>
+        <item>Fabel</item>
+        <item>Cerita Rakyat</item>
+        <item>Mitos</item>
+    </string-array>
+
+    <string-array name="data_region">
+        <item>Riau</item>
+        <item>Jawa Timur</item>
+        <item>Nusantara</item>
+        <item>Sumatra Barat</item>
+        <item>Yogyakarta</item>
+        <item>Nusantara</item>
+        <item>Kalimantan Barat</item>
+        <item>Yogyakarta</item>
+        <item>Bali</item>
+        <item>Sumatera Utara</item>
+        <item>Jawa Barat</item>
+        <item>Sumatra Barat</item>
+        <item>Nusantara</item>
+        <item>Kalimantan Selatan</item>
+        <item>Jawa Tengah</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>kisah tentang seorang sultan bernama Meurah yang mendengar keluhan rakyatnya tentang kehilangan hewan ternak dan gempa yang berasal dari sebuah bukit. Sultan meminta sahabatnya, Renggali, untuk menyelidiki fenomena tersebut. Renggali, anak Sultan Alam, pergi ke puncak bukit dan menemukan genangan air luas. Di tengah situasi ini, suara misterius menggelegar meminta maaf, yang mengarahkan Renggali pada penemuan seekor naga yang tersembunyi di semak belukar. Cerita ini mengikuti petualangan Renggali dalam mengungkap misteri di balik hilangnya ternak dan gempa yang terjadi, serta menghadapi makhluk mitos yang ternyata memiliki hubungan yang mendalam dengan alam dan kehidupan mereka.</item>
+        <item>Dahulu kala, di wilayah Jawa Timur, ada dua kerajaan besar, yaitu Kerajaan Jenggala dan Kerajaan Kediri, dipimpin oleh Raja Jayanegara dan Raja Jayengrana. Untuk menyatukan kedua kerajaan dan mencegah peperangan, putra Raja Jenggala, Panji Asmarabangun, dinikahkan dengan putri Raja Kediri, Dewi Sekartaji. Saat Kerajaan Jenggala diserang, Dewi Sekartaji melarikan diri dan menyamar menjadi Klenting Kuning, tinggal dengan tiga saudara angkat. Meski dihina dan diperlakukan buruk, Klenting Kuning mendapatkan bantuan dari seekor burung bangau yang memberinya cambuk. Sementara itu, Panji Asmarabangun mencari Dewi Sekartaji yang menghilang, dan kabar tentang Ande-Ande Lumut, sosok yang mencari jodoh, menyebar.Ketiga saudara angkat Klenting Kuning, Klenting Merah, Klenting Ijo, dan Klenting Biru, berlomba-lomba melamar Ande-Ande Lumut. Namun, Klenting Kuning yang sebenarnya Dewi Sekartaji, dipaksa mencuci di sungai. Dengan bantuan burung bangau dan cambuk, Klenting Kuning berhasil menyeberangi sungai dan melamar Ande-Ande Lumut, yang tak lain adalah Panji Asmarabangun. Ternyata Ande-Ande Lumut adalah penyamaran Panji Asmarabangun yang mencari Dewi Sekartaji. Klenting Kuning mengubah dirinya menjadi Dewi Sekartaji di depan semua orang, termasuk saudara-saudara angkatnya. Akhirnya, Panji Asmarabangun dan Dewi Sekartaji bersatu kembali, hidup bahagia, dan mengundang Mbok Randha tinggal di istana sebagai tanda terima kasih.</item>
+        <item>Pada zaman awal penciptaan bumi, burung hantu membuka sebuah toko pewarnaan bulu yang dikunjungi oleh berbagai jenis burung. Seorang gagak datang dengan kesombongannya, meminta warna yang istimewa dan berbeda dari burung lain. Setelah memilih warna biru nila yang dianggap unik, gagak merendam dirinya dalam adonan warna tersebut, namun akhirnya warnanya malah berubah menjadi hitam mengilap. Kecaman terhadap burung hantu yang salah perhitungan menyebabkan perselisihan abadi antara burung hantu dan burung gagak.</item>
+        <item>Dalam sebuah perkampungan di kaki Gunung Tinjau, hiduplah sepuluh bersaudara yang dikenal sebagai Bujang Sembilan. Saat Datuk Limbatang, paman mereka, berkunjung dengan putranya Giran, cinta pun mekar di antara Sani, salah satu dari Bujang Sembilan, dan Giran. Namun, pertemuan berikutnya membawa persaingan membara ketika Kukuban, salah satu saudara, kalah dalam adu silat melawan Giran. Dendam tumbuh dalam diri Kukuban. Meskipun Sani dan Giran berusaha menjembatani, Kukuban menolak pinangan Giran yang dijelaskan oleh Datuk Limbatang sebagai bagian dari pertandingan biasa. Saat upaya untuk membela diri berakhir dengan penuduhan dan penghukuman, Giran dan Sani memutuskan melompat ke kawah gunung setelah berdoa. Letusan gunung itu mengubah Bujang Sembilan menjadi ikan dan menciptakan danau luas yang dikenal sebagai Danau Maninjau, mengakhiri dendam dan cinta di tengah legenda yang menggetarkan itu.</item>
+        <item>Kisah Bawang Merah dan Bawang Putih mengisahkan dua saudara perempuan dengan karakter berbeda: Bawang Putih yang rajin, baik hati, dan rendah hati, serta Bawang Merah yang malas, sombong, dan serakah. Meskipun Bawang Putih melakukan semua pekerjaan rumah dengan tulus, Bawang Merah dan ibunya memperlakukan mereka dengan tidak adil. Saat sebuah peristiwa menguji kesetiaan Bawang Putih, ia menemukan perempuan tua yang memerlukan bantuannya dan membantu dengan baik hati. Sebagai balasannya, perempuan tua tersebut memberi Bawang Putih sebuah labu dengan perhiasan emas yang tersembunyi di dalamnya. Namun, kedekatan akan kekayaan membuat Bawang Merah dan ibunya tergoda untuk mengambil labu yang lebih besar, tanpa memikirkan konsekuensinya. Keserakahan mereka menghadirkan bencana ketika labu tersebut penuh dengan ular berbisa. Mereka menyadari kesalahan mereka dan meminta maaf kepada Bawang Putih, sambil belajar pesan moral tentang kerja keras, kesederhanaan, dan akibat buruk keserakahan.</item>
+        <item>Di hutan belantara yang luas, tinggal seekor kancil yang cerdik dan ramah. Ia selalu bersikap baik terhadap sesama satwa, membantu menyelesaikan masalah, dan menjadi teman yang disegani. Suatu hari, ia menemukan anak ayam yang terperangkap dalam lubang, dengan kecerdikannya ia membantu mereka keluar dan mengembalikan mereka kepada induknya. Namun, kelaparan menghampiri kancil, dan ia melihat pohon buah-buahan di seberang sungai yang menarik perhatiannya. Derasnya sungai membuatnya harus mencari cara untuk menyeberang, dan dengan kecerdikan, ia berhasil mengelabui buaya-buaya dengan pura-pura membawa daging segar. Buaya-buaya membentuk jembatan, memungkinkan kancil menyeberang dan mengambil buah-buahan. Meski berhasil, ia meninggalkan buaya marah dan pergi dengan perut kenyang.</item>
+        <item>Di sebuah desa terpencil di Kalimantan, hiduplah seorang gadis cantik yang sangat manja dan ingin hidup mewah tanpa usaha. Dia tidak mau membantu ibunya yang sudah tua dan terpaksa bekerja keras memenuhi semua keinginannya. Suatu hari, saat berbelanja di pasar, gadis tersebut merasa malu dengan penampilan ibunya yang lusuh dan sengaja menyuruh ibunya berjalan di belakangnya. Para pemuda terpikat oleh kecantikan gadis tersebut dan bertanya tentang wanita tua yang mengikutinya, namun gadis itu dengan tegas mengaku bahwa ibunya hanyalah pembantunya. Di tengah perjalanan, ibu yang sakit hati mendoakan kutukan pada anaknya. Tiba-tiba petir menyambar dan hujan lebat turun. Gadis itu berubah menjadi batu dengan tetesan air mata di pipinya, menjadi peringatan akan kesombongannya dan perlakuan buruknya terhadap ibunya.</item>
+        <item>Kisah Roro Jonggrang bermula dari seorang putri cantik di Kerajaan Prambanan yang menjadi pusat perhatian Bandung Bondowoso setelah menaklukkan kerajaan tersebut. Terpikat oleh kecantikannya, Bandung Bondowoso menginginkan Roro Jonggrang sebagai permaisurinya, meski ia menolak. Penolakan itu memicu dendam Bandung Bondowoso, yang kemudian mengurung perempuan cantik di istana dan terus mendesaknya untuk menikah. Setelah Roro Jonggrang setuju dengan syarat, yaitu membangun seribu candi dalam semalam, Bandung Bondowoso hampir berhasil, tetapi Roro Jonggrang menciptakan ilusi pagi dengan membakar jerami, membuat Bandung Bondowoso gagal menyelesaikan candi terakhir. Marah, Bandung Bondowoso mengutuk Roro Jonggrang menjadi candi ke-1000, yang kini dikenal sebagai Candi Prambanan.</item>
+        <item>Di Bali, hiduplah Brahmana kuat bernama Sidi Mantra yang diberkahi oleh Sanghyang Widya dengan harta dan istri cantik. Mereka memiliki anak laki-laki bernama Manik Angkeran. Namun, Manik Angkeran tumbuh menjadi pemuda berjudi yang sering kalah dan terjerat hutang. Sidi Mantra memohon bantuan dewa, yang mengarahkannya untuk mendapatkan harta dari Naga Besukih di Gunung Agung. Sidi Mantra berhasil mendapatkan harta ini, tetapi saat memberikannya kepada Manik Angkeran untuk mengubah perilakunya, harta tersebut malah habis karena keegoisan Manik Angkeran. Manik Angkeran sendiri mencoba mendapatkan harta dari naga tersebut, tetapi niat jahatnya membuatnya terbakar menjadi abu. Sidi Mantra memohon kepada naga untuk menghidupkan kembali Manik Angkeran, dan dengan syarat mengembalikan ekor naga kembali normal. Setelah Manik Angkeran dihidupkan kembali, ia bertobat, namun Sidi Mantra memutuskan untuk hidup terpisah dengannya. Dengan kekuatan gaib, Sidi Mantra menciptakan garis pemisah di antara mereka yang menjadi asal-usul Selat Bali.</item>
+        <item>Kisah asal-usul Danau Toba mengisahkan seorang petani muda bernama Toba, yang menemukan ikan mas besar saat memancing dan menjadi istri seorang putri kutukan. Mereka memiliki anak bernama Samosir, yang tumbuh nakal dan rakus. Suatu hari, Samosir memakan bekal ayahnya dan disalahpahami, menyebabkan pertengkaran dan kekecewaan dalam keluarga. Sang ibu menghilang bersama Samosir, meninggalkan aliran air deras yang menciptakan Danau Toba, dan pulau di tengahnya dinamakan Pulau Samosir untuk menghormati anak yang hilang.</item>
+        <item>Kisah ini mengisahkan dua putri raja, Purbasari dan kakaknya Purbararang. Saat ayahnya memilih Purbasari sebagai penggantinya, Purbararang tidak setuju dan dengan bantuan seorang penyihir, membuat Purbasari memiliki totol hitam di wajahnya serta mengusirnya ke hutan. Di sana, Purbasari bersahabat dengan hewan-hewan dan menjalani hidup yang sederhana. Suatu malam, Lutung Kasarung, seorang makhluk gaib, muncul dan mempersembahkan sebuah telaga yang memiliki air penyembuh. Setelah mandi di telaga itu, Purbasari kembali cantik seperti semula. Ketika kakaknya mencari Purbasari dan melihat perubahannya, ia mencoba bersaing dalam lomba kecantikan dan tunangan, tetapi Purbasari meminta Lutung Kasarung menjadi tunangannya. Dengan doa, Lutung Kasarung berubah menjadi pemuda tampan yang mengalahkan tunangan kakaknya. Akhirnya, Purbararang sadar akan kesalahannya, meminta maaf, dan Purbasari memaafkannya. Purbasari akhirnya diangkat menjadi ratu dan menikah dengan Lutung Kasarung.</item>
+        <item>Di sebuah perkampungan nelayan di Pantai Air Manis, Padang, Sumatera Barat, hiduplah seorang janda bernama Mande Rubayah bersama anak laki-lakinya, Malin Kundang. Mande Rubayah sangat menyayangi Malin, dan ia tumbuh menjadi anak yang rajin dan penurut. Namun, saat Malin dewasa, ia berkeinginan merantau ke kota untuk mengubah nasib keluarganya. Meski dengan berat hati, Mande Rubayah mengizinkan Malin pergi. Bertahun-tahun berlalu tanpa kabar dari Malin, dan Mande Rubayah selalu memandang ke laut dengan harapan anaknya akan kembali. Suatu hari, kabar dari nakhoda mengatakan bahwa Malin telah menjadi kaya dan menikah. Mande Rubayah berharap anaknya akan pulang. Ketika sebuah kapal megah tiba di pantai, penduduk desa bersuka cita, dan Mande Rubayah yakin bahwa Malin akan kembali. Namun, saat Malin turun dari kapal bersama istrinya, ia menyangkal ibunya dan menolak mengakuinya. Dalam sakit hati, Mande Rubayah berdoa memohon keadilan Tuhan. Tiba-tiba, badai datang dan menghancurkan kapal Malin, mengubahnya menjadi batu. Legenda Malin Kundang mengajarkan pentingnya menyayangi orang tua dalam suka dan duka, serta menghargai jasa mereka yang telah mendidik dan menyayangi kita sejak kecil.</item>
+        <item>Di sebuah hutan yang ramai, tinggallah Si Gajah yang besar dan kuat, yang merasa bangga dengan ukurannya dan menganggap dirinya hebat. Namun, di hutan yang sama hidup pula Si Semut, makhluk kecil yang hidup dengan kerja keras dalam koloni. Suatu pagi, tanpa sengaja Si Gajah melangkah ke koloni semut dan menyebabkan kepanikan. Namun, Si Semut tidak gentar. Dengan penuh hormat, ia berbicara kepada Si Gajah untuk meminta agar dia lebih berhati-hati terhadap rumah mereka. Terkejut, Si Gajah merespons dan melihat kehidupan disiplin, kerja keras, dan kerjasama yang ada di koloni semut. Dari pengalaman itu, Si Gajah merasa malu dan terinspirasi oleh semangat semut-semut tersebut. Ia memahami bahwa ukuran dan kekuatan tidaklah segalanya. Dari saat itu, Si Gajah belajar menghargai semua makhluk tanpa memandang ukuran. Ia berkomitmen untuk menghormati rumah-rumah kecil seperti koloni semut dan bekerja sama dengan makhluk lain untuk menjaga keharmonisan hutan. Cerita ini mengingatkan kita untuk tak meremehkan siapa pun, menghargai peran dan keunikan setiap makhluk, serta memahami bahwa kebersamaan dan saling menghormati penting dalam menjaga harmoni dalam kehidupan ini.</item>
+        <item>Dulu, hiduplah seorang pemuda tampan bernama Awang Sukma yang menjelajah hutan dan membangun rumah pohon di sana. Setelah tinggal lama di hutan, dia diangkat menjadi penguasa wilayah dan mendapat gelar "Datu". Suatu hari, dia menemukan danau indah di bawah pohon rindang dan melihat tujuh gadis cantik bermain di sana. Mereka adalah bidadari yang menggunakan selendang ajaib untuk terbang. Datu Awang Sukma yang terpikat oleh kecantikan mereka, mengambil salah satu selendang secara diam-diam. Namun, dia ketahuan dan gadis-gadis itu terbang pergi, kecuali putri bungsu yang tertinggal karena selendangnya hilang. Datu Awang Sukma memberikan pertolongannya dan mereka akhirnya menikah. Mereka memiliki seorang putri bernama Kumalasari. Namun, ketika selendang ajaib ditemukan kembali oleh putri bungsu, rahasia Datu Awang Sukma terungkap dan sang putri memutuskan untuk kembali ke Kahyangan. Meskipun sedih, mereka berpisah dengan janji untuk bertemu kembali jika Kumalasari merindukannya. Putri bungsu terbang kembali ke Kahyangan dan Datu Awang Sukma menjaga anak mereka dengan baik. Ia juga bersumpah melarang anaknya beternak ayam hitam yang dianggap membawa bencana. Legenda ini menciptakan tempat yang dikenal sebagai Telaga Bidadari, mengajarkan tentang kejujuran, pengampunan, dan pengorbanan dalam kehidupan.</item>
+        <item>Kisah dimulai dengan seorang janda bernama Mbok Sirni yang mendambakan seorang anak. Suatu hari, ia menerima tawaran dari seorang raksasa untuk memiliki anak, dengan syarat anak tersebut harus diserahkan kembali saat berusia 17 tahun untuk disantap oleh raksasa. Setelah menyetujui persyaratan itu, Mbok Sirni diberi biji mentimun oleh raksasa yang tumbuh menjadi seorang gadis cantik bernama Timun Mas. Saat tiba waktunya, raksasa datang menagih janji, namun Mbok Sirni memohon penundaan. Kecemasan dan kasih sayangnya terhadap Timun Mas membuat Mbok Sirni mencari bantuan dari seorang petapa. Petapa memberinya bungkusan-bungkusan dengan bahan-bahan ajaib sebagai penangkal. Saat raksasa datang lagi, Timun Mas menggunakan biji mentimun, jarum, garam, dan terasi untuk menghadapi raksasa. Ia berhasil meloloskan diri dengan menebar biji mentimun yang tumbuh menjadi ladang, mengubah jarum menjadi pohon bambu tajam, dan menciptakan lautan dari garam dan terasi. Raksasa akhirnya tewas dalam lautan mendidih. Timun Mas dan Mbok Sirni hidup bahagia bersama setelah mengatasi ujian tersebut.</item>
+    </string-array>
+
+    <string-array name="data_image">
+        <item>@drawable/alue_naga</item>
+        <item>@drawable/ande_ande_lumut</item>
+        <item>@drawable/asal_muasal_warna_burung_gagak_hitam</item>
+        <item>@drawable/asal_usul_danau_maninjau</item>
+        <item>@drawable/bawang_merah_putih</item>
+        <item>@drawable/kancil_buaya</item>
+        <item>@drawable/legenda_batu_menangis</item>
+        <item>@drawable/legenda_prambanan</item>
+        <item>@drawable/legenda_selat_bali</item>
+        <item>@drawable/legenda_toba</item>
+        <item>@drawable/lutung_kasarung_dan_purbasari</item>
+        <item>@drawable/malin_kundang</item>
+        <item>@drawable/si_gajah_semut</item>
+        <item>@drawable/telaga_bidadari</item>
+        <item>@drawable/timun_mas</item>
+    </string-array>
+</resources>
