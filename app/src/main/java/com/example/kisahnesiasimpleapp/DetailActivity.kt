@@ -57,12 +57,12 @@ class DetailActivity : AppCompatActivity() {
         }
         val actionBar = supportActionBar
         actionBar?.setDisplayHomeAsUpEnabled(true)
+
         shareButton.setOnClickListener {
             val sendIntent: Intent = Intent().apply {
                 action = Intent.ACTION_SEND
                 putExtra(Intent.EXTRA_TEXT, titleDetailTextView.text)
                 type = "text/plain"
-
             }
             startActivity(sendIntent)
         }
